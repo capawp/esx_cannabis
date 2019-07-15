@@ -1,3 +1,7 @@
+Contact me : https://discord.gg/vR9TNvC
+video preview:  https://www.youtube.com/watch?v=_TqPvaqsoAk
+Video Tuto (fr) : inc link 
+
 Download & Installation
 Using fvm
 
