@@ -1,0 +1,16 @@
+USE `essentialmode`;
+
+
+INSERT INTO `items (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
+('bouture', 'Bouture', '40', '0', '1'),
+('cannabismouile', 'Cannabis Mouille', '80', '0', '1'),
+('cannabissec', 'Cannabis Sec', '40', '0', '1')
+;
+
+INSERT INTO `jobs` (name, label) VALUES
+ ('cannabis', 'cultivateur')
+;
+
+INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_female) VALUES
+  ('cannabis', 0, 'employee', 'Intérimaire', 0, '{}', '{}')
+;
